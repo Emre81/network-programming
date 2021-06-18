@@ -4,7 +4,7 @@ In today’s world there are many text or code editor programs exist. These appl
 
 ### Dependencies
        Node.js
-       Socket.io npm files --> npm install soscket.io
+       Socket.io npm files --> npm install socket.io
        A browser
   
 ### How to execuate server?
