@@ -6,7 +6,7 @@ const server = require('http').createServer(app);
 const io = require('socket.io')(server);
 const port = process.env.PORT || 3000;
 
-server.listen(port, "46.101.177.81", () => {
+server.listen(port, "localhost", () => {
   console.log('Server listening at port %d', port);
 });
 function onConnection(socket){
