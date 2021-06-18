@@ -15,3 +15,4 @@ After the cloning process enter the project's folder from terminal screen and ty
         
 Now you can reach the server using browser with localhost:3000 address.    
 
+![Server-image](images/start.png)
